@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Tanaji
 #### I am Web Developer
-
-
 Introvert...
 
 Skills: HTML / CSS / PHP
@@ -19,14 +17,8 @@ Skills: HTML / CSS / PHP
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=21tanaji)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21tanaji)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=21tanaji&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=21tanaji)  
-
-![GitHub metrics](https://metrics.lecoq.io/21tanaji)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=21tanaji)  
 
 ![Profile views](https://gpvc.arturio.dev/21tanaji)  
