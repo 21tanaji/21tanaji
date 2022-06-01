@@ -1,6 +1,8 @@
+![I am Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/268172274_1327658857656638_5193492725587545052_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YPXLIlCJKpEAX9Y3vyp&tn=O4ytZ4qqbVJn_VQh&_nc_ht=scontent.fdac5-2.fna&oh=00_AT_LjmlPlSulSxMGjlPz6huhdnDU1Mk2FIWaOPaLTxItAw&oe=629C3A4F)
+
 ### Hi there 👋, I'm Tanaji
 #### I am Web Developer
-![I am Web Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/268172274_1327658857656638_5193492725587545052_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YPXLIlCJKpEAX9Y3vyp&tn=O4ytZ4qqbVJn_VQh&_nc_ht=scontent.fdac5-2.fna&oh=00_AT_LjmlPlSulSxMGjlPz6huhdnDU1Mk2FIWaOPaLTxItAw&oe=629C3A4F)
+
 
 Introvert...
 
