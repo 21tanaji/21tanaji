@@ -64,7 +64,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=21tanaji&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=21tanaji&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
