@@ -43,10 +43,10 @@
 
 ## 📫 How to Reach Me
 
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/tanaji21/)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg' alt='Facebook' height='30'>](https://www.facebook.com/tanaji21)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg' alt='Instagram' height='30'>](https://www.instagram.com/_tanajii_21_/)
-[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' alt='Gmail' height='30'>](mailto:tanajichowdhury99@gmail.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/tanaji21/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='30'>](https://www.facebook.com/tanaji21)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='30'>](https://www.instagram.com/_tanajii_21_/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Gmail' height='30'>](mailto:tanajichowdhury99@gmail.com)
 
 ---
 
